@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title> My Web Page </title>
+	<style
+
+	</style>
+	<script language="javascript>
+
+	</script>
+	<body bgcolor="yellow" text="red">
+		<label> Firstname:</label><input type="text" id="t1" value="firstname"><br>
+		<input type="text" id="t2" value="lastname"><br>
+		<input type="text" id="t1" value="firstname"><br>
+		<input type="text" id="t1" value="firstname"><br>		
+		<input type="text" id="t1" value="firstname"><br>	
+		<input type="text" id="t1" value="firstname"><br>
+		<input type="text" id="t1" value="firstname"><br>
+	</body>
+
+
+</html>
